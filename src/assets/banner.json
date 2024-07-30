@@ -1,0 +1,42 @@
+[
+    {
+        "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B409C2A425D58C32D822EB633C7CAE3DC910DC2FC62D2B1807A0BB092C531E9A/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "description": "Incredibles 2 (2018) follows the superhero Parr family as they balance family life with fighting crime. Helen leads a campaign to restore public trust in superheroes while Bob manages domestic challenges at home.",
+        "year": "2018",
+        "genre": ["Science Fiction", "Family", "Animation", "Action-Adventure"],
+        "rating": "8.0",
+        "title": "Incredibles 2"
+    },
+    {
+        "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/49B92C046117E89BC9243A68EE277A3B30D551D4599F23C10BF0B8C1E90AEFB6/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "description": "When 11-year-old girl named Riley as she navigates a move to a new city. It explores how Joy, Sadness, Anger, Fear, and Disgust work together to shape her experiences and memories.",
+        "year": "2015",
+        "genre": ["Family", "Animation"],
+        "rating": "8.2",
+        "title": "Inside Out"
+    },
+    {   
+        "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/56EEBB17CC25C9FE16E334C34EF96BF7D91EC9BA3B438F88FB24E1C2AE785E03/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "description": "Jamie Foxx leads an all-star cast in this hilarious, heart-filled adventure. After a near-death experience, he embarks on a journey through the afterlife and learns profound lessons about passion and purpose.",
+        "year": "2020",
+        "genre": ["Family", "Comedy", "Fantasy", "Animation", "Music"],
+        "rating": "8.0",
+        "title": "Soul"
+    },
+    {
+        "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AAC4808815AE5721A6AAB372DD14B8CE2E7E9EFF3A27942EF2B6B45EBF4E65CB/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "description": "Moana sets sail on a daring mission to save her people. Along the way, she meets the mighty demigod Maui–together they cross the ocean on a fun-filled, action-packed voyage from Walt Disney Animation Studios.",
+        "year": "2016",
+        "genre": ["Family", "Fantasy", "Animation", "Musical"],
+        "rating": "7.6",
+        "title": "Moana"
+    },
+    {
+        "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09A0617D43282F1A4FA1A97DF6159B4263A8DEB9679A007B61D5E5D6E5D0A2DD/scale?width=1440&aspectRatio=1.78&format=jpeg",
+        "description": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon",
+        "year": "2021",
+        "genre": ["Family", "Fantasy", "Animation", "Action-Adventure"],
+        "rating": "7.3",
+        "title": "Raya and the Last Dragon"
+    }
+]
