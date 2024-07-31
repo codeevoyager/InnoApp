@@ -1,7 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+
 body {
   height: 100vh;
   background-color: black;
   color: white;
+  scroll-behavior: smooth;
   user-select: none;
 }
 
@@ -89,7 +94,6 @@ body {
   height: 70vh;
 }
 
-
 .carousel-control-prev,
 .carousel-control-next {
   display: none;
@@ -147,11 +151,16 @@ body {
   user-select: none;
 }
 
+.movie-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-block: 30px;
+}
+
 .movie-card{
   height: 250px;
-  width: 200px;
-  margin: 24px;
-  padding: 24px 30px;
+  width: 200px;  
 }
 
 .movie-card-img{
@@ -200,7 +209,7 @@ body {
   justify-content: space-between;
   font-size: 12px;
   margin-block: 40px;
-  padding-inline: 40px;
+  padding-inline: 24px;
 }
 
 .app-content{
@@ -222,7 +231,7 @@ body {
   justify-content: space-between;
   margin-block: 40px;
   font-size: 12px;
-  padding-inline: 40px;
+  padding-inline: 24px;
 }
 
 .footer-left h2{
@@ -258,11 +267,6 @@ body {
     width: 50%;
   }
 
-  .movie-section{
-    display: flex;
-    justify-content: center;
-    padding-bottom: 30px;
-  }
 }
 
 
@@ -321,10 +325,13 @@ body {
 
   .navbar-logo{
     width: 100%;
-    font-size: 25px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+  }
+
+  .logo{
+    padding-top: 15px;
   }
 
   .carousel-caption{
@@ -351,11 +358,24 @@ body {
 
 @media screen and (max-width:600px){
   .carousel-item img{
-    height: 60vh;
+    height: 50vh;
   }
 
   .carousel-caption{
     width: 70%;
+  }
+
+  .banner-title{
+    font-size: 30px;
+  }
+
+  .section{
+    margin: 20px;
+    padding-block: 20px;
+  }
+
+  .movie-section{
+    padding-block: 40px; 
   }
 
   .movie-card, .movie-card img{
@@ -369,6 +389,9 @@ body {
     padding: 8px;
   }
 
+  .mobile-app, .footer-content{
+    padding-inline: 15px;
+  }
 }
 
 
