@@ -12,7 +12,7 @@ const BannerCarousel = ({ banner }) => {
               <img src={banner.backgroundImg} alt={banner.title}/>
 
               <Carousel.Caption>
-                <h2 className="banner-title">{banner.title}</h2>
+                <p className="banner-title">{banner.title}</p>
                 <div className="banner-rating">
                   <p className="text-warning"><i className="fa fa-star pe-2" aria-hidden="true"></i>{banner.rating}</p>
                   <div>{banner.year}</div>
