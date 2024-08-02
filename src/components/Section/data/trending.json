@@ -5,7 +5,7 @@
     "year": "2010",
     "runtime": "148",
     "rating": "8.8",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/kh1MXlFG8oQny9Z0qFAZPI1zmIm.jpg"
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "year": "1978",
     "runtime": "183",
     "rating": "8.1",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/1uYk5On78BFYxDMqs87FrPcsPqH.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "year": "1997",
     "runtime": "113",
     "rating": "7.2",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZDM3MTg2MGUtZDM0MC00NzMwLWE5NjItOWFjNjA2M2I4YzgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/z55xQYsEe4VtrmuveHwuKczdvPS.jpg"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "year": "2012",
     "runtime": "165",
     "rating": "8.5",    
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/zTqrLIFED5HYM8tmb7gCahUt4QF.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "year": "2023",
     "runtime": "180",
     "rating": "8.7",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/AwdCzia3TzlT9V7OsuAkfXqryHS.jpg"
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "year": "2002",
     "runtime": "141",
     "rating": "8.1",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/uhOCsgXx5Q8pLJh2SUI1KNwk2hq.jpg"
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "year": "2006",
     "runtime": "117",
     "rating": "8.0",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/A9sbTT0CQL9AwCY8eHMNauLP1Gy.jpg"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "year": "2006",
     "runtime": "117",
     "rating": "7.6",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/943KZ312PC2GV1m7gSchuzjA6tC.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "year": "2023",
     "runtime": "114",
     "rating": "7.3",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/1tJdARrNBBcN1tENXxMqQvQXhuv.jpg"
   },  
   {
     "id": 9,
@@ -77,6 +77,6 @@
     "year": "2010",
     "runtime": "140",
     "rating": "7.3",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjQ1NzRhYjYtMWY3My00ODA0LTk5ZDctYjQ4YjE0M2RhMGNiXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg"
+    "posterUrl": "https://image.tmdb.org/t/p/original/3T9VIvlELMyZLojZxwxyMSqoF3K.jpg"
   }     
 ]
